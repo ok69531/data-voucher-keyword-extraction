@@ -1,3 +1,3 @@
 # Keyword Extraction using Keybert
 
-![struct](././struct.png)
+![struct](figure/struct.png)
