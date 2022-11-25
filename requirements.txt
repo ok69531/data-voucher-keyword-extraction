@@ -1,0 +1,4 @@
+beautifulsoup4==4.11.1
+selenium==3.141.0
+soynlp==0.0.493
+sentence-transformers==2.2.2
