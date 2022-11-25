@@ -1,3 +1,5 @@
 # Keyword Extraction using Keybert
 
-![struct](./figure/struct.png)
+<p align="center">
+ <img src = "./figure/image.png">
+</p>
